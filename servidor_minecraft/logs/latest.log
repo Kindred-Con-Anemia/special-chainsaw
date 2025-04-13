@@ -51,3 +51,8 @@
 [04:35:36] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
 [04:36:13] [Server thread/INFO]: [MIKE: Teleported MIKE to 171.500000, 115.000000, 89.500000]
 [04:37:46] [Server thread/INFO]: MIKE has made the advancement [Withering Heights]
+[04:42:27] [Server thread/INFO]: MIKE lost connection: Disconnected
+[04:42:27] [Server thread/INFO]: MIKE left the game
+[04:43:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:48:15] [Server thread/INFO]: MIKE[/100.65.53.54:58260] logged in with entity id 16763 at (1.73529603609505, 57.0, 0.3319240789133954)
+[04:48:15] [Server thread/INFO]: MIKE joined the game
