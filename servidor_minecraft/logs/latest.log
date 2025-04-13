@@ -46,3 +46,8 @@
 [04:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
 [04:13:12] [Server thread/INFO]: [MIKE: Set the time to 1000]
 [04:19:45] [Server thread/INFO]: [MIKE: Teleported MIKE to 121.500000, 73.000000, 620.500000]
+[04:32:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-334, y=46, z=2300} jh{x=-333, y=45, z=2301}
+[04:35:12] [Server thread/INFO]: [MIKE: Set own game mode to Creative Mode]
+[04:35:36] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[04:36:13] [Server thread/INFO]: [MIKE: Teleported MIKE to 171.500000, 115.000000, 89.500000]
+[04:37:46] [Server thread/INFO]: MIKE has made the advancement [Withering Heights]
