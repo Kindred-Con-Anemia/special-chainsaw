@@ -56,3 +56,9 @@
 [04:43:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [04:48:15] [Server thread/INFO]: MIKE[/100.65.53.54:58260] logged in with entity id 16763 at (1.73529603609505, 57.0, 0.3319240789133954)
 [04:48:15] [Server thread/INFO]: MIKE joined the game
+[04:53:36] [Server thread/INFO]: Villager cpj['Farmer'/18324, l='ServerLevel[world]', x=1277.36, y=126.94, z=151.48] died, message: 'Farmer was slain by Zombie'
+[04:54:11] [Server thread/INFO]: Villager cpj['Farmer'/18306, l='ServerLevel[world]', x=1271.31, y=114.00, z=95.37] died, message: 'Farmer was slain by Zombie Villager'
+[04:54:20] [Server thread/INFO]: Villager cpj['Farmer'/18379, l='ServerLevel[world]', x=1270.85, y=114.00, z=103.33] died, message: 'Farmer was slain by Zombie Villager'
+[04:55:22] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[04:55:33] [Server thread/INFO]: Villager cpj['Farmer'/18322, l='ServerLevel[world]', x=1266.50, y=122.00, z=124.75] died, message: 'Farmer was slain by Zombie Villager'
+[04:57:45] [Server thread/WARN]: MIKE moved wrongly!
