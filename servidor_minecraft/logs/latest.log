@@ -1,77 +1,39 @@
-[04:00:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:00:28] [ServerMain/INFO]: Loaded 1337 recipes
-[04:00:28] [ServerMain/INFO]: Loaded 1448 advancements
-[04:00:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[04:00:28] [Server thread/INFO]: Loading properties
-[04:00:28] [Server thread/INFO]: Default game type: SURVIVAL
-[04:00:28] [Server thread/INFO]: Generating keypair
-[04:00:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:00:28] [Server thread/INFO]: Using epoll channel type
-[04:00:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:00:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:00:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:00:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:00:28] [Server thread/INFO]: Preparing level "world"
-[04:00:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:00:42] [Server thread/INFO]: Time elapsed: 12323 ms
-[04:00:42] [Server thread/INFO]: Done (13.043s)! For help, type "help"
-[04:00:48] [Server thread/INFO]: MIKE[/100.65.53.54:57965] logged in with entity id 12 at (1309.209934799653, 120.0, 631.8232637375357)
-[04:00:48] [Server thread/INFO]: MIKE joined the game
-[04:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[04:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
-[04:13:12] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[04:19:45] [Server thread/INFO]: [MIKE: Teleported MIKE to 121.500000, 73.000000, 620.500000]
-[04:32:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-334, y=46, z=2300} jh{x=-333, y=45, z=2301}
-[04:35:12] [Server thread/INFO]: [MIKE: Set own game mode to Creative Mode]
-[04:35:36] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
-[04:36:13] [Server thread/INFO]: [MIKE: Teleported MIKE to 171.500000, 115.000000, 89.500000]
-[04:37:46] [Server thread/INFO]: MIKE has made the advancement [Withering Heights]
-[04:42:27] [Server thread/INFO]: MIKE lost connection: Disconnected
-[04:42:27] [Server thread/INFO]: MIKE left the game
-[04:43:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:48:15] [Server thread/INFO]: MIKE[/100.65.53.54:58260] logged in with entity id 16763 at (1.73529603609505, 57.0, 0.3319240789133954)
-[04:48:15] [Server thread/INFO]: MIKE joined the game
-[04:53:36] [Server thread/INFO]: Villager cpj['Farmer'/18324, l='ServerLevel[world]', x=1277.36, y=126.94, z=151.48] died, message: 'Farmer was slain by Zombie'
-[04:54:11] [Server thread/INFO]: Villager cpj['Farmer'/18306, l='ServerLevel[world]', x=1271.31, y=114.00, z=95.37] died, message: 'Farmer was slain by Zombie Villager'
-[04:54:20] [Server thread/INFO]: Villager cpj['Farmer'/18379, l='ServerLevel[world]', x=1270.85, y=114.00, z=103.33] died, message: 'Farmer was slain by Zombie Villager'
-[04:55:22] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[04:55:33] [Server thread/INFO]: Villager cpj['Farmer'/18322, l='ServerLevel[world]', x=1266.50, y=122.00, z=124.75] died, message: 'Farmer was slain by Zombie Villager'
-[04:57:45] [Server thread/WARN]: MIKE moved wrongly!
-[05:10:35] [Server thread/INFO]: MIKE lost connection: Disconnected
-[05:10:35] [Server thread/INFO]: MIKE left the game
-[05:10:40] [Server thread/INFO]: Stopping the server
-[05:10:40] [Server thread/INFO]: Stopping server
-[05:10:40] [Server thread/INFO]: Saving players
-[05:10:40] [Server thread/INFO]: Saving worlds
-[05:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:34:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:34:48] [ServerMain/INFO]: Loaded 1337 recipes
+[04:34:48] [ServerMain/INFO]: Loaded 1448 advancements
+[04:34:48] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:34:48] [Server thread/INFO]: Loading properties
+[04:34:48] [Server thread/INFO]: Default game type: SURVIVAL
+[04:34:48] [Server thread/INFO]: Generating keypair
+[04:34:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:34:48] [Server thread/INFO]: Using epoll channel type
+[04:34:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:34:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:34:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:34:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:34:49] [Server thread/INFO]: Preparing level "world"
+[04:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:34:57] [Server thread/INFO]: Time elapsed: 8251 ms
+[04:34:57] [Server thread/INFO]: Done (8.608s)! For help, type "help"
+[04:35:57] [Server thread/INFO]: MIKE[/100.65.53.54:60600] logged in with entity id 13 at (1355.7939711891718, 122.0, 660.9441917834237)
+[04:35:57] [Server thread/INFO]: MIKE joined the game
+[04:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[04:37:45] [Server thread/WARN]: MIKE moved wrongly!
+[04:39:33] [Server thread/INFO]: Villager cpj['Cartographer'/109, l='ServerLevel[world]', x=1306.47, y=119.00, z=636.42] died, message: 'Cartographer was slain by MIKE'
