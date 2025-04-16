@@ -41,3 +41,13 @@
 [04:46:35] [Server thread/INFO]: MIKE left the game
 [04:47:21] [Server thread/INFO]: MIKE[/100.65.53.54:60859] logged in with entity id 3989 at (1180.563140981266, 107.0, 621.0472977721965)
 [04:47:21] [Server thread/INFO]: MIKE joined the game
+[05:00:17] [Server thread/INFO]: [MIKE: Set own game mode to Creative Mode]
+[05:01:28] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[05:02:33] [Server thread/INFO]: [MIKE: Set own game mode to Creative Mode]
+[05:02:50] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[05:06:08] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 1375 ms
+[05:06:08] [Server thread/WARN]: MIKE moved too quickly! -12.068684695658703,-1.9482721829639473,13.30035829041526
+[05:06:33] [Server thread/INFO]: [MIKE: Teleported MIKE to 1632.500000, 57.025764, 5440.500000]
+[05:08:11] [Server thread/INFO]: Locating element minecraft:monument took 38 ms
+[05:08:15] [Server thread/INFO]: [MIKE: Teleported MIKE to 1344.500000, 69.000000, 5440.500000]
+[05:15:07] [Server thread/INFO]: [MIKE: Set own game mode to Spectator Mode]

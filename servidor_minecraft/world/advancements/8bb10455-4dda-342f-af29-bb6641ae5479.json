@@ -670,6 +670,7 @@
       "minecraft:blaze": "2025-03-29 01:53:10 +0000",
       "minecraft:pillager": "2025-03-29 23:38:10 +0000",
       "minecraft:skeleton": "2025-03-26 03:54:25 +0000",
+      "minecraft:elder_guardian": "2025-04-16 05:09:45 +0000",
       "minecraft:ravager": "2025-03-29 23:44:14 +0000",
       "minecraft:bogged": "2025-03-30 05:33:57 +0000",
       "minecraft:ghast": "2025-03-26 04:52:47 +0000",
@@ -4822,6 +4823,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-04-13 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-16 05:09:47 +0000"
     },
     "done": true
   },
