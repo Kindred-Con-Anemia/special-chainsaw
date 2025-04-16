@@ -37,3 +37,7 @@
 [04:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
 [04:37:45] [Server thread/WARN]: MIKE moved wrongly!
 [04:39:33] [Server thread/INFO]: Villager cpj['Cartographer'/109, l='ServerLevel[world]', x=1306.47, y=119.00, z=636.42] died, message: 'Cartographer was slain by MIKE'
+[04:46:35] [Server thread/INFO]: MIKE lost connection: Disconnected
+[04:46:35] [Server thread/INFO]: MIKE left the game
+[04:47:21] [Server thread/INFO]: MIKE[/100.65.53.54:60859] logged in with entity id 3989 at (1180.563140981266, 107.0, 621.0472977721965)
+[04:47:21] [Server thread/INFO]: MIKE joined the game
