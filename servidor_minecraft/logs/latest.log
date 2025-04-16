@@ -68,3 +68,16 @@
 [05:34:03] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
 [05:34:38] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
 [05:52:44] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[06:05:08] [Server thread/INFO]: MIKE lost connection: Disconnected
+[06:05:08] [Server thread/INFO]: MIKE left the game
+[06:05:17] [Server thread/INFO]: Stopping the server
+[06:05:17] [Server thread/INFO]: Stopping server
+[06:05:17] [Server thread/INFO]: Saving players
+[06:05:17] [Server thread/INFO]: Saving worlds
+[06:05:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:05:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:05:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:05:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
