@@ -4826,15 +4826,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+  "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-16 05:25:19 +0000"
+      "has_wet_sponge": "2025-04-16 05:09:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
-      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
+      "has_prismarine_brick": "2025-04-16 05:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-16 05:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-16 05:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-16 05:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-16 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-04-16 05:17:36 +0000"
     },
     "done": true
   },
@@ -4844,9 +4874,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
-      "has_prismarine_brick": "2025-04-16 05:16:20 +0000"
+      "has_prismarine": "2025-04-16 05:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-16 05:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-16 05:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-16 05:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-16 05:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-16 05:25:19 +0000"
     },
     "done": true
   },
@@ -4868,117 +4952,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-04-16 05:27:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-04-16 05:26:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2025-04-16 05:25:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lighten_up": {
-    "criteria": {
-      "lighten_up": "2025-04-16 05:26:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2025-04-16 05:25:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-04-16 05:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2025-04-16 05:09:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-04-16 05:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-04-16 05:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-04-16 05:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-16 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-04-16 05:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-04-16 05:26:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-04-16 05:25:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": "2025-04-16 05:25:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-04-16 05:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-04-16 05:17:56 +0000"
     },
     "done": true
   },
@@ -4994,27 +4976,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
-    "criteria": {
-      "has_tide_armor_trim_smithing_template": "2025-04-16 05:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2025-04-16 05:18:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-04-16 05:17:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-04-16 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-04-16 05:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2025-04-16 05:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lighten_up": {
+    "criteria": {
+      "lighten_up": "2025-04-16 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-16 05:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-16 05:26:49 +0000"
     },
     "done": true
   },
@@ -5023,6 +5017,12 @@
       "has_brick": "2025-04-16 05:26:49 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-16 05:27:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4082
 }
