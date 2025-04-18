@@ -38,3 +38,6 @@
 [04:28:51] [Server thread/INFO]: MIKE was slain by Zombie
 [04:31:24] [Server thread/INFO]: [MIKE: Set own game mode to Creative Mode]
 [04:31:41] [Server thread/INFO]: [MIKE: Set own game mode to Survival Mode]
+[04:38:45] [Server thread/WARN]: MIKE moved wrongly!
+[04:39:03] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[04:42:59] [Server thread/INFO]: MIKE has made the advancement [A Seedy Place]
