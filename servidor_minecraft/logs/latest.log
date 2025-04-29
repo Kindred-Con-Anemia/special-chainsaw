@@ -147,3 +147,102 @@
 [05:11:38] [Server thread/INFO]: [SodiqOrdak: Set the time to 1000]
 [05:12:24] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
 [05:12:27] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to SodiqOrdak]
+[05:12:43] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to SodiqOrdak]
+[05:14:46] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to samore123]
+[05:16:40] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to SodiqOrdak]
+[05:18:20] [Server thread/INFO]: [SodiqOrdak: Teleported SodiqOrdak to MIKE]
+[05:18:48] [Server thread/INFO]: [SodiqOrdak: Teleported SodiqOrdak to samore123]
+[05:19:26] [Server thread/INFO]: [SodiqOrdak: Teleported SodiqOrdak to MIKE]
+[05:19:44] [Server thread/INFO]: [MIKE: Teleported MIKE to SodiqOrdak]
+[05:20:26] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Gato_brujo]
+[05:20:42] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to samore123]
+[05:21:41] [Server thread/INFO]: SodiqOrdak has reached the goal [Beaconator]
+[05:21:41] [Server thread/INFO]: SodiqOrdak has made the advancement [Bring Home the Beacon]
+[05:22:26] [Server thread/INFO]: [MIKE: Teleported MIKE to samore123]
+[05:22:42] [Server thread/INFO]: [MIKE: Teleported MIKE to SodiqOrdak]
+[05:22:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1969, y=93, z=456} jh{x=1967, y=93, z=456}
+[05:22:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1969, y=93, z=456} jh{x=1967, y=93, z=456}
+[05:22:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=65, z=1316} jh{x=1042, y=65, z=1316}
+[05:22:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=65, z=1317} jh{x=1042, y=65, z=1316}
+[05:22:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=64, z=1317} jh{x=1042, y=65, z=1316}
+[05:22:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=65, z=1316} jh{x=1042, y=65, z=1316}
+[05:23:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=63, z=1320} jh{x=1044, y=63, z=1319}
+[05:23:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1042, y=63, z=1319} jh{x=1042, y=62, z=1320}
+[05:23:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1042, y=63, z=1319} jh{x=1042, y=62, z=1320}
+[05:23:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1042, y=63, z=1319} jh{x=1042, y=62, z=1320}
+[05:28:53] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[05:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1040, y=50, z=1320} jh{x=1041, y=51, z=1317}
+[05:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1041, y=51, z=1316} jh{x=1041, y=51, z=1317}
+[05:31:30] [Server thread/INFO]: [SodiqOrdak: Teleported SodiqOrdak to MIKE]
+[05:31:39] [Server thread/INFO]: [SodiqOrdak: Set the weather to clear]
+[05:34:15] [Server thread/INFO]: [Vazzzco: Teleported Gato_brujo to Vazzzco]
+[05:34:16] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to SodiqOrdak]
+[05:34:54] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to Vazzzco]
+[05:35:35] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to SodiqOrdak]
+[05:35:48] [Server thread/INFO]: [SodiqOrdak: Teleported Gato_brujo to Vazzzco]
+[05:36:51] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to SodiqOrdak]
+[05:37:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1049, y=45, z=1318} jh{x=1049, y=44, z=1318}
+[05:37:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1049, y=45, z=1318} jh{x=1049, y=44, z=1318}
+[05:37:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1049, y=45, z=1318} jh{x=1049, y=44, z=1318}
+[05:37:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1048, y=47, z=1319} jh{x=1048, y=47, z=1318}
+[05:37:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1048, y=47, z=1319} jh{x=1048, y=47, z=1318}
+[05:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1054, y=46, z=1319} jh{x=1056, y=46, z=1322}
+[05:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1054, y=46, z=1319} jh{x=1056, y=46, z=1322}
+[05:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1054, y=46, z=1319} jh{x=1056, y=46, z=1322}
+[05:37:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1053, y=43, z=1320} jh{x=1053, y=42, z=1320}
+[05:37:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1053, y=43, z=1320} jh{x=1053, y=42, z=1320}
+[05:37:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1053, y=43, z=1320} jh{x=1053, y=42, z=1320}
+[05:37:40] [Server thread/INFO]: [Vazzzco: Teleported Vazzzco to Gato_brujo]
+[05:38:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=40, z=1313} jh{x=1042, y=40, z=1313}
+[05:38:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1044, y=40, z=1313} jh{x=1042, y=40, z=1313}
+[05:38:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1044, y=39, z=1313} jh{x=1042, y=40, z=1313}
+[05:38:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1055, y=40, z=1325} jh{x=1046, y=38, z=1327}
+[05:38:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1055, y=40, z=1325} jh{x=1046, y=38, z=1327}
+[05:38:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1054, y=38, z=1314} jh{x=1054, y=38, z=1315}
+[05:39:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1048, y=37, z=1316} jh{x=1049, y=36, z=1316}
+[05:39:27] [Server thread/INFO]: [SodiqOrdak: Set the time to 1000]
+[05:39:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1045, y=40, z=1318} jh{x=1046, y=39, z=1317}
+[05:39:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1045, y=40, z=1318} jh{x=1046, y=39, z=1317}
+[05:39:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1040, y=38, z=1320} jh{x=1040, y=38, z=1321}
+[05:39:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1040, y=38, z=1320} jh{x=1040, y=38, z=1321}
+[05:39:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1040, y=38, z=1320} jh{x=1040, y=38, z=1321}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:39:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=39, z=1327} jh{x=1047, y=38, z=1325}
+[05:40:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=37, z=1325} jh{x=1051, y=37, z=1324}
+[05:40:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1040, y=32, z=1323} jh{x=1040, y=34, z=1324}
+[05:40:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1041, y=33, z=1321} jh{x=1041, y=32, z=1322}
+[05:40:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1042, y=34, z=1321} jh{x=1041, y=32, z=1322}
+[05:40:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1042, y=35, z=1321} jh{x=1041, y=32, z=1322}
+[05:41:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=32, z=1313} jh{x=1053, y=32, z=1313}
+[05:41:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=32, z=1313} jh{x=1053, y=32, z=1313}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1052, y=34, z=1313} jh{x=1051, y=35, z=1314}
+[05:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1043, y=31, z=1312} jh{x=1041, y=31, z=1312}
+[05:41:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1041, y=31, z=1323} jh{x=1040, y=29, z=1323}
+[05:41:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1041, y=31, z=1323} jh{x=1040, y=29, z=1323}
+[05:41:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1041, y=31, z=1323} jh{x=1040, y=29, z=1323}
+[05:41:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1054, y=29, z=1314} jh{x=1054, y=29, z=1315}
+[05:43:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1051, y=30, z=1311} jh{x=1051, y=29, z=1312}
+[05:43:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1045, y=27, z=1314} jh{x=1043, y=29, z=1314}
