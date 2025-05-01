@@ -165,3 +165,16 @@
 [06:58:59] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
 [07:09:58] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
 [07:09:58] [Server thread/INFO]: Gato_brujo left the game
+[07:14:05] [Server thread/INFO]: MIKE lost connection: Disconnected
+[07:14:05] [Server thread/INFO]: MIKE left the game
+[07:14:16] [Server thread/INFO]: Stopping the server
+[07:14:16] [Server thread/INFO]: Stopping server
+[07:14:16] [Server thread/INFO]: Saving players
+[07:14:16] [Server thread/INFO]: Saving worlds
+[07:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
