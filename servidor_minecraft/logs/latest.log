@@ -46,3 +46,13 @@
 [03:56:10] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
 [03:57:47] [Server thread/INFO]: [MIKE: Set the time to 1000]
 [03:57:51] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[04:10:38] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[04:15:11] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
+[04:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=42, y=26, z=-231} jh{x=42, y=27, z=-231}
+[04:23:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=43, y=15, z=-236} jh{x=42, y=14, z=-236}
+[04:23:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=43, y=15, z=-236} jh{x=42, y=14, z=-236}
+[04:25:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=32, y=13, z=-277} jh{x=32, y=12, z=-276}
+[04:25:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=32, y=13, z=-277} jh{x=32, y=12, z=-276}
+[04:25:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=30, y=11, z=-302} jh{x=31, y=10, z=-301}
+[04:27:56] [Server thread/INFO]: [MIKE: Set the time to 1000]
+[04:28:35] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
