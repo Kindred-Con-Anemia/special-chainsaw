@@ -67,3 +67,6 @@
 [03May2025 04:08:31.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 0.8903782422423774,15.765894907902663,8.677251169061492
 [03May2025 04:39:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MIKE a server operator
 [03May2025 04:39:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
+[03May2025 04:52:34.905] [Thread-70/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 04:52:37.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.116.77.109:63975] logged in with entity id 21471 at (1400.373862703026, 117.0, 751.0921458787641)
+[03May2025 04:52:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game

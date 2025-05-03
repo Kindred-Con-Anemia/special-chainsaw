@@ -672,3 +672,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 04:40:03.402] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/entity/trialspawner/TrialSpawner
 [03May2025 04:42:01.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 04:42:01.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:47:01.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:47:01.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:52:01.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:52:01.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:52:34.758] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[03May2025 04:52:34.758] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[03May2025 04:52:34.758] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[03May2025 04:52:34.758] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Vanilla acceptance test: ACCEPTED
+[03May2025 04:52:34.758] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[03May2025 04:52:34.758] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@1d06e423 into net.minecraft.network.Connection@2b513a1f
+[03May2025 04:52:34.776] [Thread-70/DEBUG] [SkinRestorer/]: Fetching samore123's skin
+[03May2025 04:52:34.905] [Thread-70/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 04:52:37.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.116.77.109:63975] logged in with entity id 21471 at (1400.373862703026, 117.0, 751.0921458787641)
+[03May2025 04:52:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
