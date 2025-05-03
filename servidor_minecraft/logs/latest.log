@@ -1,180 +1,67 @@
-[03:49:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:49:55] [ServerMain/INFO]: Loaded 1337 recipes
-[03:49:55] [ServerMain/INFO]: Loaded 1448 advancements
-[03:49:55] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:49:55] [Server thread/INFO]: Loading properties
-[03:49:55] [Server thread/INFO]: Default game type: SURVIVAL
-[03:49:55] [Server thread/INFO]: Generating keypair
-[03:49:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:49:55] [Server thread/INFO]: Using epoll channel type
-[03:49:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:49:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:49:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:49:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:49:55] [Server thread/INFO]: Preparing level "world"
-[03:49:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:06] [Server thread/INFO]: Time elapsed: 9708 ms
-[03:50:06] [Server thread/INFO]: Done (10.473s)! For help, type "help"
-[03:51:01] [Server thread/INFO]: MIKE[/100.65.53.54:53184] logged in with entity id 13 at (1530.6206709316477, 124.0, 1033.9953368907202)
-[03:51:01] [Server thread/INFO]: MIKE joined the game
-[03:52:19] [Server thread/INFO]: Gato_brujo[/100.112.127.107:56546] logged in with entity id 765 at (1520.818965919531, 120.0, 1023.8946079623896)
-[03:52:19] [Server thread/INFO]: Gato_brujo joined the game
-[03:52:30] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[03:52:52] [Server thread/INFO]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
-[03:55:13] [Server thread/INFO]: Gato_brujo fell from a high place
-[03:55:57] [Server thread/INFO]: [Not Secure] <MIKE> ./data get entity @s LastDeathLocation
-[03:56:10] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[03:57:47] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[03:57:51] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:10:38] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:15:11] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=42, y=26, z=-231} jh{x=42, y=27, z=-231}
-[04:23:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=43, y=15, z=-236} jh{x=42, y=14, z=-236}
-[04:23:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=43, y=15, z=-236} jh{x=42, y=14, z=-236}
-[04:25:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=32, y=13, z=-277} jh{x=32, y=12, z=-276}
-[04:25:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=32, y=13, z=-277} jh{x=32, y=12, z=-276}
-[04:25:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=30, y=11, z=-302} jh{x=31, y=10, z=-301}
-[04:27:56] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[04:28:35] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:34:35] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:39:22] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[04:40:02] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[04:44:54] [Server thread/INFO]: Gato_brujo fell from a high place
-[05:05:44] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:11:41] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
-[05:11:41] [Server thread/INFO]: Gato_brujo left the game
-[05:11:47] [Server thread/INFO]: Gato_brujo[/100.112.127.107:53952] logged in with entity id 33917 at (1513.8737242117677, 142.0, 1033.4066673451582)
-[05:11:47] [Server thread/INFO]: Gato_brujo joined the game
-[05:15:22] [Server thread/INFO]: samore123[/100.116.77.109:51563] logged in with entity id 35210 at (1418.7128228255608, 125.0, 759.6977452352055)
-[05:15:22] [Server thread/INFO]: samore123 joined the game
-[05:15:44] [Server thread/INFO]: [Not Secure] <MIKE> hablalo
-[05:15:59] [Server thread/INFO]: [Not Secure] <samore123> se quieren casar?
-[05:16:11] [Server thread/INFO]: [Not Secure] <MIKE> de una
-[05:16:26] [Server thread/INFO]: [Not Secure] <samore123> caigan a la iglesia
-[05:16:32] [Server thread/INFO]: [Not Secure] <Gato_brujo> va
-[05:16:39] [Server thread/INFO]: [MIKE: Teleported MIKE to samore123]
-[05:16:53] [Server thread/INFO]: [Not Secure] <MIKE> faltan invitados
-[05:17:33] [Server thread/INFO]: [Not Secure] <samore123> Y la novia?
-[05:17:53] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[05:18:06] [Server thread/INFO]: [Not Secure] <Gato_brujo> fallas tecnicas jajaja
-[05:18:31] [Server thread/INFO]: [Not Secure] <samore123> oe elo
-[05:18:37] [Server thread/INFO]: [Not Secure] <Gato_brujo> holi
-[05:18:45] [Server thread/INFO]: [Not Secure] <samore123> caiga
-[05:18:52] [Server thread/INFO]: [MIKE: Teleported MIKE to samore123]
-[05:19:11] [Server thread/INFO]: [Not Secure] <samore123> entren uno a uno
-[05:19:24] [Server thread/INFO]: [Not Secure] <samore123> por favor sin armaduras en la casa de dios
-[05:19:41] [Server thread/INFO]: [Not Secure] <samore123> y el novio?
-[05:19:49] [Server thread/INFO]: [Not Secure] <samore123> hoy....
-[05:20:02] [Server thread/INFO]: [Not Secure] <samore123> juntamos en sagrado matrimonio
-[05:20:05] [Server thread/INFO]: [Not Secure] <samore123> a
-[05:20:13] [Server thread/INFO]: [Not Secure] <samore123> maikol londoño
-[05:20:22] [Server thread/INFO]: [Not Secure] <samore123> y eloisa toro
-[05:20:25] [Server thread/INFO]: [Not Secure] <samore123> maicol
-[05:20:36] [Server thread/INFO]: [Not Secure] <samore123> prometes amar y cuidar en las buenas y en las malas a esta mujer?
-[05:20:42] [Server thread/INFO]: [Not Secure] <MIKE> lo prometo
-[05:20:48] [Server thread/INFO]: [Not Secure] <samore123> y eloia
-[05:20:50] [Server thread/INFO]: [Not Secure] <samore123> prometes amar y cuidar en las buenas y en las malas a esta mujer?
-[05:20:58] [Server thread/INFO]: [Not Secure] <samore123> prometes amar y cuidar en las buenas y en las malas a este hombre*
-[05:21:04] [Server thread/INFO]: [Not Secure] <Gato_brujo> lo prometo
-[05:21:23] [Server thread/INFO]: samore123 lost connection: Timed out
-[05:21:23] [Server thread/INFO]: samore123 left the game
-[05:21:23] [Server thread/WARN]: handleDisconnection() called twice
-[05:21:28] [Server thread/INFO]: samore123[/100.116.77.109:49895] logged in with entity id 38576 at (1418.9541814424167, 125.125, 759.0500000119209)
-[05:21:28] [Server thread/INFO]: samore123 joined the game
-[05:21:31] [Server thread/INFO]: [Not Secure] <samore123> oeooeoeoeo
-[05:21:34] [Server thread/INFO]: [Not Secure] <samore123> JAJAJAJAJAAJ
-[05:21:40] [Server thread/INFO]: [Not Secure] <samore123> ok ok
-[05:21:49] [Server thread/INFO]: [Not Secure] <samore123> problmas tecnicos
-[05:21:52] [Server thread/INFO]: [Not Secure] <samore123> continumos
-[05:22:01] [Server thread/INFO]: [Not Secure] <Gato_brujo> ta bien
-[05:22:04] [Server thread/INFO]: [Not Secure] <samore123> por el poder que me concede l estado de minecraft
-[05:22:07] [Server thread/INFO]: [Not Secure] <samore123> los declaro
-[05:22:11] [Server thread/INFO]: [Not Secure] <samore123> tilin y tilina
-[05:22:20] [Server thread/INFO]: [Not Secure] <samore123> puede besar a la nivia
-[05:22:33] [Server thread/INFO]: [Not Secure] <samore123> eso todavia no
-[05:22:39] [Server thread/INFO]: [Not Secure] <Gato_brujo> ajajjaja
-[05:22:54] [Server thread/INFO]: [Not Secure] <samore123> vayan a su luna de miel
-[05:23:13] [Server thread/INFO]: [Not Secure] <Gato_brujo> primero a acabar la casa ajajjajaja
-[05:23:24] [Server thread/INFO]: [Not Secure] <samore123> pa luego desbaratarla
-[05:23:30] [Server thread/INFO]: [Not Secure] <Gato_brujo> muchas gracias su exelencia
-[05:23:35] [Server thread/INFO]: [Not Secure] <samore123> oe
-[05:23:36] [Server thread/INFO]: [Not Secure] <Gato_brujo> ajajajjaj tambien
-[05:23:41] [Server thread/INFO]: [Not Secure] <samore123> cali dice que lleven la coca
-[05:23:47] [Server thread/INFO]: [Not Secure] <MIKE> si
-[05:23:50] [Server thread/INFO]: [Not Secure] <Gato_brujo> hay que tener algo para desbaratar en un inicio
-[05:23:50] [Server thread/INFO]: [Not Secure] <samore123> pa la mermelada
-[05:23:53] [Server thread/INFO]: [Not Secure] <MIKE> pal coso de corozo
-[05:23:56] [Server thread/INFO]: [Not Secure] <MIKE> ya la guarde
-[05:24:36] [Server thread/INFO]: [Not Secure] <Gato_brujo> oki
-[05:28:44] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:30:20] [Server thread/INFO]: [Not Secure] <samore123> oe MIKE
-[05:30:24] [Server thread/INFO]: [Not Secure] <MIKE> oeo
-[05:30:25] [Server thread/INFO]: [Not Secure] <samore123> tenes zanahorias
-[05:30:29] [Server thread/INFO]: [Not Secure] <MIKE> doradas?
-[05:30:32] [Server thread/INFO]: [Not Secure] <samore123> zs
-[05:30:37] [Server thread/INFO]: [Not Secure] <MIKE> ya le doy
-[05:33:24] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[05:34:18] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:38:48] [Server thread/INFO]: [Not Secure] <samore123> esta quedando chimba o q
-[05:38:52] [Server thread/INFO]: [Not Secure] <MIKE> demasiado mano
-[05:48:31] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[05:51:29] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[05:52:14] [Server thread/INFO]: [MIKE: Teleported Gato_brujo to MIKE]
-[06:03:37] [Server thread/INFO]: [Not Secure] <samore123> oe
-[06:03:41] [Server thread/INFO]: [Not Secure] <MIKE> oe
-[06:03:41] [Server thread/INFO]: [Not Secure] <samore123> hay obsidiana¡
-[06:03:44] [Server thread/INFO]: [Not Secure] <MIKE> nada
-[06:04:02] [Server thread/INFO]: [Not Secure] <MIKE> si quiere rompele el portal a hike
-[06:04:28] [Server thread/INFO]: [Not Secure] <samore123> va
-[06:05:00] [Server thread/INFO]: samore123 has made the advancement [Ice Bucket Challenge]
-[06:05:40] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[06:14:47] [Server thread/INFO]: [Not Secure] <samore123> oe pone de noche
-[06:14:50] [Server thread/INFO]: [Not Secure] <samore123> un momentico
-[06:14:54] [Server thread/INFO]: [MIKE: Set the time to 13000]
-[06:15:01] [Server thread/INFO]: [Not Secure] <samore123> ya
-[06:15:13] [Server thread/INFO]: [Not Secure] <MIKE> de dia ya?
-[06:15:18] [Server thread/INFO]: [Not Secure] <samore123> si quier
-[06:15:22] [Server thread/INFO]: [MIKE: Set the time to 1000]
-[06:16:07] [Server thread/INFO]: samore123 lost connection: Disconnected
-[06:16:07] [Server thread/INFO]: samore123 left the game
-[06:22:22] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[06:31:49] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[06:33:40] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[06:37:26] [Server thread/INFO]: Gato_brujo has completed the challenge [Cover Me in Debris]
-[06:43:17] [Server thread/INFO]: Gato_brujo fell from a high place
-[06:58:59] [Server thread/INFO]: [MIKE: Teleported MIKE to Gato_brujo]
-[07:09:58] [Server thread/INFO]: Gato_brujo lost connection: Disconnected
-[07:09:58] [Server thread/INFO]: Gato_brujo left the game
-[07:14:05] [Server thread/INFO]: MIKE lost connection: Disconnected
-[07:14:05] [Server thread/INFO]: MIKE left the game
-[07:14:16] [Server thread/INFO]: Stopping the server
-[07:14:16] [Server thread/INFO]: Stopping server
-[07:14:16] [Server thread/INFO]: Saving players
-[07:14:16] [Server thread/INFO]: Saving worlds
-[07:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 04:01:03.090] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[03May2025 04:01:03.103] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[03May2025 04:01:03.108] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[03May2025 04:01:03.435] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[03May2025 04:01:03.840] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[03May2025 04:01:04.759] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[03May2025 04:01:07.622] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[03May2025 04:01:07.711] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:01:09.753] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[03May2025 04:01:10.645] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[03May2025 04:01:28.151] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[03May2025 04:01:28.154] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[03May2025 04:01:28.252] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[03May2025 04:01:30.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03May2025 04:01:32.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
+[03May2025 04:01:35.046] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03May2025 04:01:41.986] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[03May2025 04:01:42.039] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[03May2025 04:01:43.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[03May2025 04:01:43.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03May2025 04:01:43.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03May2025 04:01:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03May2025 04:01:43.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03May2025 04:01:44.252] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03May2025 04:01:44.746] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03May2025 04:01:44.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03May2025 04:01:44.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03May2025 04:01:44.752] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03May2025 04:01:45.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03May2025 04:01:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03May2025 04:02:01.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.449] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.456] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.456] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.457] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.457] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.464] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:02:01.741] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15398 ms
+[03May2025 04:02:01.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.840s)! For help, type "help"
+[03May2025 04:02:01.766] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 04:02:29.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:63889] logged in with entity id 16 at (-3318.0898247430723, 60.0, 3318.5741908076434)
+[03May2025 04:02:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[03May2025 04:08:31.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 0.8903782422423774,15.765894907902663,8.677251169061492
