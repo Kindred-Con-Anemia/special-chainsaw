@@ -52,3 +52,13 @@
 [03May2025 23:02:43.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.514s)! For help, type "help"
 [03May2025 23:02:43.188] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03May2025 23:03:43.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[03May2025 23:12:21.276] [Thread-14/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 23:12:23.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.116.77.109:50911] logged in with entity id 15 at (1419.056432710986, 125.0625, 751.1679140773441)
+[03May2025 23:12:23.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
+[03May2025 23:14:55.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:61988] logged in with entity id 581 at (1524.3985682977473, 110.0, 1036.2363032779842)
+[03May2025 23:14:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[03May2025 23:16:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:19:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
+[03May2025 23:19:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 fell from a high place
+[03May2025 23:20:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
+[03May2025 23:21:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Applied skin changes for MIKE]

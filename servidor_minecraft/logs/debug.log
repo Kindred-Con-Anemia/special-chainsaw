@@ -626,3 +626,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 23:03:43.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [03May2025 23:03:43.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 23:03:43.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:12:18.918] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[03May2025 23:12:18.919] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[03May2025 23:12:18.919] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[03May2025 23:12:18.919] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[03May2025 23:12:18.919] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[03May2025 23:12:21.024] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:12:21.024] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:12:21.024] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:12:21.024] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:12:21.024] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[03May2025 23:12:21.028] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@52c1a280 into net.minecraft.network.Connection@261f5734
+[03May2025 23:12:21.034] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing ServerLoginPacketListenerImplMixin from skinrestorer.mixins.json into net.minecraft.server.network.ServerLoginPacketListenerImpl
+[03May2025 23:12:21.035] [Netty Epoll Server IO #2/DEBUG] [mixin/]: skinrestorer.mixins.json:ServerLoginPacketListenerImplMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[03May2025 23:12:21.035] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Renaming synthetic method lambda$skinrestorer$fetchSkin$2(Lnet/lionarius/skinrestorer/skin/provider/SkinProviderContext;)Lnet/lionarius/skinrestorer/util/Result; to mdf86cdd$skinrestorer$lambda$skinrestorer$fetchSkin$2$0 in skinrestorer.mixins.json:ServerLoginPacketListenerImplMixin
+[03May2025 23:12:21.035] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Renaming synthetic method lambda$skinrestorer$fetchSkin$1(Lnet/lionarius/skinrestorer/skin/provider/SkinProviderContext;Lnet/lionarius/skinrestorer/skin/provider/SkinProvider;)Lnet/lionarius/skinrestorer/util/Result; to mdf86cdd$skinrestorer$lambda$skinrestorer$fetchSkin$1$1 in skinrestorer.mixins.json:ServerLoginPacketListenerImplMixin
+[03May2025 23:12:21.035] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Renaming synthetic method lambda$waitForSkin$0()Ljava/lang/Void; to mdf86cdd$skinrestorer$lambda$waitForSkin$0$2 in skinrestorer.mixins.json:ServerLoginPacketListenerImplMixin
+[03May2025 23:12:21.159] [Thread-14/DEBUG] [SkinRestorer/]: Fetching samore123's skin
+[03May2025 23:12:21.276] [Thread-14/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 23:12:23.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.116.77.109:50911] logged in with entity id 15 at (1419.056432710986, 125.0625, 751.1679140773441)
+[03May2025 23:12:23.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
+[03May2025 23:12:26.160] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
+[03May2025 23:14:54.027] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:14:54.027] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:14:54.027] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:14:54.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:14:54.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[03May2025 23:14:54.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@10ef03c0 into net.minecraft.network.Connection@33d3333a
+[03May2025 23:14:54.069] [Thread-25/DEBUG] [SkinRestorer/]: Fetching MIKE's skin
+[03May2025 23:14:55.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:61988] logged in with entity id 581 at (1524.3985682977473, 110.0, 1036.2363032779842)
+[03May2025 23:14:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[03May2025 23:16:45.614] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[03May2025 23:16:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:17:23.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:17:23.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:19:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
+[03May2025 23:19:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 fell from a high place
+[03May2025 23:20:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
+[03May2025 23:21:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Applied skin changes for MIKE]
