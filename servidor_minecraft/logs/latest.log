@@ -65,3 +65,5 @@
 [03May2025 04:02:29.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:63889] logged in with entity id 16 at (-3318.0898247430723, 60.0, 3318.5741908076434)
 [03May2025 04:02:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
 [03May2025 04:08:31.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 0.8903782422423774,15.765894907902663,8.677251169061492
+[03May2025 04:39:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MIKE a server operator
+[03May2025 04:39:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
