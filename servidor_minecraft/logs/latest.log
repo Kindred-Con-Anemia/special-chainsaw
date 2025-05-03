@@ -155,3 +155,16 @@
 [03May2025 05:52:38.841] [Worker-Main-5/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (1411, -7, -1870)
 [03May2025 05:53:09.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vazzzco lost connection: Disconnected
 [03May2025 05:53:09.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco left the game
+[03May2025 06:22:52.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[03May2025 06:22:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[03May2025 06:23:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03May2025 06:23:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 06:23:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 06:23:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 06:23:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 06:23:02.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 06:23:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 06:23:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 06:23:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 06:23:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 06:23:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
