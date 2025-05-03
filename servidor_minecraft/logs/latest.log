@@ -86,3 +86,15 @@
 [03May2025 04:55:25.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> ya
 [03May2025 04:57:28.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [Sweet Dreams]
 [03May2025 04:58:55.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> 1418 751
+[03May2025 05:03:18.514] [Thread-84/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 05:03:19.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vazzzco[/100.90.212.99:56121] logged in with entity id 26468 at (1481.3201543832754, 172.0, 724.156868917518)
+[03May2025 05:03:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco joined the game
+[03May2025 05:03:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> buenas
+[03May2025 05:03:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> hablame
+[03May2025 05:08:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [A Seedy Place]
+[03May2025 05:10:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oe
+[03May2025 05:10:37.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> hay esmeraldas?
+[03May2025 05:10:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> si no hay en los cofes de la casa de elo, toca tradear con los aldeanos
+[03May2025 05:11:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> hay uno que tradea hierro por esmeraldas
+[03May2025 05:13:29.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[03May2025 05:13:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game

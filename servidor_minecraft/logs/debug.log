@@ -707,3 +707,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 04:58:55.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> 1418 751
 [03May2025 05:02:01.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 05:02:01.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:03:18.424] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[03May2025 05:03:18.424] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[03May2025 05:03:18.424] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[03May2025 05:03:18.424] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Vanilla acceptance test: ACCEPTED
+[03May2025 05:03:18.424] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[03May2025 05:03:18.424] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@64a5e43c into net.minecraft.network.Connection@21a776cc
+[03May2025 05:03:18.431] [Thread-84/DEBUG] [SkinRestorer/]: Fetching Vazzzco's skin
+[03May2025 05:03:18.514] [Thread-84/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03May2025 05:03:19.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vazzzco[/100.90.212.99:56121] logged in with entity id 26468 at (1481.3201543832754, 172.0, 724.156868917518)
+[03May2025 05:03:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco joined the game
+[03May2025 05:03:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> buenas
+[03May2025 05:03:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> hablame
+[03May2025 05:07:01.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:07:01.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:08:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [A Seedy Place]
+[03May2025 05:10:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oe
+[03May2025 05:10:37.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> hay esmeraldas?
+[03May2025 05:10:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> si no hay en los cofes de la casa de elo, toca tradear con los aldeanos
+[03May2025 05:11:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> hay uno que tradea hierro por esmeraldas
+[03May2025 05:12:01.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:12:01.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:13:29.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[03May2025 05:13:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[03May2025 05:17:01.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:17:01.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:22:01.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:22:01.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
