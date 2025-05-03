@@ -1,170 +1,54 @@
-[03May2025 04:01:03.090] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[03May2025 04:01:03.103] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[03May2025 04:01:03.108] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[03May2025 04:01:03.435] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[03May2025 04:01:03.840] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[03May2025 04:01:04.759] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[03May2025 04:01:07.622] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[03May2025 04:01:07.711] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 04:01:09.753] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[03May2025 04:01:10.645] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[03May2025 04:01:28.151] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[03May2025 04:01:28.154] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[03May2025 04:01:28.252] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[03May2025 04:01:30.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03May2025 04:01:32.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
-[03May2025 04:01:35.046] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03May2025 04:01:41.986] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
-[03May2025 04:01:42.039] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
-[03May2025 04:01:43.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[03May2025 04:01:43.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03May2025 04:01:43.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03May2025 04:01:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03May2025 04:01:43.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03May2025 04:01:44.252] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03May2025 04:01:44.746] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03May2025 04:01:44.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03May2025 04:01:44.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03May2025 04:01:44.752] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03May2025 04:01:45.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03May2025 04:01:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03May2025 04:02:01.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.449] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.456] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.456] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.457] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.457] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.464] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:02:01.741] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15398 ms
-[03May2025 04:02:01.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.840s)! For help, type "help"
-[03May2025 04:02:01.766] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03May2025 04:02:29.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:63889] logged in with entity id 16 at (-3318.0898247430723, 60.0, 3318.5741908076434)
-[03May2025 04:02:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
-[03May2025 04:08:31.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 0.8903782422423774,15.765894907902663,8.677251169061492
-[03May2025 04:39:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MIKE a server operator
-[03May2025 04:39:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 5.500000, 61.000000, 1.500000]
-[03May2025 04:52:34.905] [Thread-70/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[03May2025 04:52:37.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.116.77.109:63975] logged in with entity id 21471 at (1400.373862703026, 117.0, 751.0921458787641)
-[03May2025 04:52:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
-[03May2025 04:53:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: No skin changes]
-[03May2025 04:53:58.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> espera
-[03May2025 04:54:02.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Made samore123 a server operator]
-[03May2025 04:54:02.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> que
-[03May2025 04:54:06.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> intente avr
-[03May2025 04:54:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> nada
-[03May2025 04:54:23.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
-[03May2025 04:54:30.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> ya toca preguntarle a hike
-[03May2025 04:54:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> va
-[03May2025 04:54:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> espera
-[03May2025 04:55:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> ya esta afuera?
-[03May2025 04:55:23.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> nd
-[03May2025 04:55:23.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported samore123 to 1323.500000, 119.000000, 631.500000]
-[03May2025 04:55:25.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> ya
-[03May2025 04:57:28.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [Sweet Dreams]
-[03May2025 04:58:55.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> 1418 751
-[03May2025 05:03:18.514] [Thread-84/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[03May2025 05:03:19.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vazzzco[/100.90.212.99:56121] logged in with entity id 26468 at (1481.3201543832754, 172.0, 724.156868917518)
-[03May2025 05:03:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco joined the game
-[03May2025 05:03:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> buenas
-[03May2025 05:03:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> hablame
-[03May2025 05:08:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [A Seedy Place]
-[03May2025 05:10:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oe
-[03May2025 05:10:37.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> hay esmeraldas?
-[03May2025 05:10:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> si no hay en los cofes de la casa de elo, toca tradear con los aldeanos
-[03May2025 05:11:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> hay uno que tradea hierro por esmeraldas
-[03May2025 05:13:29.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
-[03May2025 05:13:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
-[03May2025 05:24:52.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 moved too quickly! 6.703486813282325,0.0,-7.780751995933315
-[03May2025 05:26:16.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> 171 115 88
-[03May2025 05:27:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oe
-[03May2025 05:27:48.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> en que capa esta la netherita
-[03May2025 05:27:57.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> creo que en la 14
-[03May2025 05:28:13.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> va
-[03May2025 05:30:01.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:49558] logged in with entity id 37026 at (1356.699999988079, 122.0, 662.9555342257034)
-[03May2025 05:30:01.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
-[03May2025 05:30:14.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> parce y si vendemos a samuel como esclavo boliviano?
-[03May2025 05:30:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> jajajajajaja
-[03May2025 05:30:34.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> como boliviano no pagan mucho
-[03May2025 05:31:34.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 23.554135120975616,-0.7846391820182674,13.78488227990431
-[03May2025 05:33:17.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! -21.429775806835437,-1.097572624875795,2.6327513112684073
-[03May2025 05:33:20.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! -16.398442799173154,-0.7578332334171876,-10.316671975066129
-[03May2025 05:33:23.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! -6.218266005655664,-1.4196565024334973,-19.62062084856848
-[03May2025 05:33:27.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 10.318954593647959,-12.38965651721503,-8.596795338013294
-[03May2025 05:33:40.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> POR FINNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-[03May2025 05:33:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [Hidden in the Depths]
-[03May2025 05:33:53.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> OH YEA
-[03May2025 05:33:57.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> melo
-[03May2025 05:34:03.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> le regalo 3 de netherita si quiere
-[03May2025 05:34:13.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> ahpra
-[03May2025 05:36:20.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Vazzzco]
-[03May2025 05:36:32.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> quiere comida andres?
-[03May2025 05:36:36.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> ta bien
-[03May2025 05:36:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> gracias
-[03May2025 05:36:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> dnd
-[03May2025 05:39:52.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to 171.500000, 115.000000, 88.500000]
-[03May2025 05:40:41.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oe
-[03May2025 05:40:53.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> dnd hay zanaorias
-[03May2025 05:41:19.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> en los cultivos de la aldea
-[03May2025 05:41:26.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> solo hay papa
-[03May2025 05:41:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> buscate cerca a la casa de samuel
-[03May2025 05:41:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> entoces venga a mi casa, que aca yo cultive
-[03May2025 05:41:56.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> melo
-[03May2025 05:45:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oe y hay oro?
-[03May2025 05:46:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> no se
-[03May2025 05:47:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> ey, quien me hace tp por fa
-[03May2025 05:47:29.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> que no me deja usar comandos
-[03May2025 05:47:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to Vazzzco]
-[03May2025 05:47:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> oh shit
-[03May2025 05:48:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to 1418.500000, 78.000000, 751.500000]
-[03May2025 05:48:15.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to 1418.500000, 780.000000, 751.500000]
-[03May2025 05:48:19.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 was kicked for floating too long!
-[03May2025 05:48:19.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 lost connection: Flying is not enabled on this server
-[03May2025 05:48:19.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 left the game
-[03May2025 05:48:19.943] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03May2025 05:48:23.979] [Thread-173/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[03May2025 05:48:24.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.116.77.109:64211] logged in with entity id 56436 at (1418.4838700093735, 620.3234638674572, 751.5111347828544)
-[03May2025 05:48:24.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
-[03May2025 05:48:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to 1418.500000, 780.000000, 751.500000]
-[03May2025 05:49:06.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 lost connection: Disconnected
-[03May2025 05:49:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 left the game
-[03May2025 05:50:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vazzzco> bueno, me perdi
-[03May2025 05:52:38.841] [Worker-Main-5/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (1411, -7, -1870)
-[03May2025 05:53:09.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vazzzco lost connection: Disconnected
-[03May2025 05:53:09.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco left the game
-[03May2025 06:22:52.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
-[03May2025 06:22:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
-[03May2025 06:23:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[03May2025 06:23:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03May2025 06:23:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03May2025 06:23:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03May2025 06:23:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03May2025 06:23:02.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03May2025 06:23:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03May2025 06:23:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03May2025 06:23:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03May2025 06:23:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03May2025 06:23:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 23:02:09.892] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[03May2025 23:02:09.895] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[03May2025 23:02:09.897] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[03May2025 23:02:10.028] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[03May2025 23:02:10.233] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[03May2025 23:02:10.713] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[03May2025 23:02:12.470] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[03May2025 23:02:12.528] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 23:02:13.621] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[03May2025 23:02:13.811] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/special-chainsaw/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[03May2025 23:02:24.112] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[03May2025 23:02:24.112] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[03May2025 23:02:24.159] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[03May2025 23:02:25.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03May2025 23:02:26.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
+[03May2025 23:02:27.658] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03May2025 23:02:31.340] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[03May2025 23:02:31.404] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[03May2025 23:02:32.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[03May2025 23:02:32.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03May2025 23:02:32.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03May2025 23:02:32.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03May2025 23:02:32.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03May2025 23:02:32.485] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03May2025 23:02:32.611] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03May2025 23:02:32.612] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03May2025 23:02:32.612] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03May2025 23:02:32.612] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03May2025 23:02:32.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03May2025 23:02:33.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03May2025 23:02:42.911] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.913] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.916] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.917] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.918] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.922] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.923] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.942] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.943] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:42.964] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 23:02:43.168] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9706 ms
+[03May2025 23:02:43.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.514s)! For help, type "help"
+[03May2025 23:02:43.188] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 23:03:43.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
