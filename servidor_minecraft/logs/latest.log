@@ -9,3 +9,21 @@
 [04May2025 00:10:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [04May2025 00:45:15.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:64129] logged in with entity id 43593 at (1524.7979413633134, 113.0, 1031.7767964436237)
 [04May2025 00:45:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[04May2025 00:55:31.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! -7.627446390478326,-2.523920626942754,16.99752417330251
+[04May2025 00:56:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[04May2025 00:58:13.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[04May2025 00:58:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[04May2025 01:01:29.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[04May2025 01:01:32.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[04May2025 01:01:32.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[04May2025 01:01:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04May2025 01:01:41.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 01:01:41.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 01:01:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04May2025 01:01:41.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04May2025 01:01:41.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04May2025 01:01:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04May2025 01:01:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04May2025 01:01:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 01:01:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 01:01:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
