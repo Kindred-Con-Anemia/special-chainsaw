@@ -8,26 +8,28 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-05-03 23:29:42 +0000",
-      "minecraft:flower_forest": "2025-04-29 04:17:39 +0000",
       "minecraft:snowy_slopes": "2025-04-29 04:36:40 +0000",
-      "minecraft:beach": "2025-04-29 04:11:41 +0000",
-      "minecraft:dark_forest": "2025-05-03 23:54:25 +0000",
       "minecraft:forest": "2025-05-03 23:28:43 +0000",
       "minecraft:taiga": "2025-05-03 23:29:34 +0000",
+      "minecraft:deep_ocean": "2025-05-04 00:07:01 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-03 23:29:47 +0000",
+      "minecraft:windswept_forest": "2025-05-03 23:54:29 +0000",
+      "minecraft:jungle": "2025-04-29 04:22:01 +0000",
+      "minecraft:ocean": "2025-05-04 00:05:21 +0000",
+      "minecraft:cherry_grove": "2025-04-29 04:17:00 +0000",
+      "minecraft:sunflower_plains": "2025-04-29 04:17:38 +0000",
+      "minecraft:birch_forest": "2025-05-03 23:54:20 +0000",
+      "minecraft:flower_forest": "2025-04-29 04:17:39 +0000",
+      "minecraft:beach": "2025-04-29 04:11:41 +0000",
+      "minecraft:dark_forest": "2025-05-03 23:54:25 +0000",
       "minecraft:sparse_jungle": "2025-05-03 05:47:31 +0000",
       "minecraft:river": "2025-04-29 04:47:21 +0000",
       "minecraft:stony_shore": "2025-05-03 23:29:40 +0000",
       "minecraft:dripstone_caves": "2025-04-29 05:50:20 +0000",
       "minecraft:frozen_peaks": "2025-04-29 04:35:54 +0000",
-      "minecraft:deep_cold_ocean": "2025-05-03 23:29:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-03 23:28:49 +0000",
-      "minecraft:windswept_forest": "2025-05-03 23:54:29 +0000",
-      "minecraft:jungle": "2025-04-29 04:22:01 +0000",
-      "minecraft:cherry_grove": "2025-04-29 04:17:00 +0000",
-      "minecraft:sunflower_plains": "2025-04-29 04:17:38 +0000",
       "minecraft:swamp": "2025-05-03 23:54:38 +0000",
       "minecraft:meadow": "2025-04-29 04:12:03 +0000",
-      "minecraft:birch_forest": "2025-05-03 23:54:20 +0000",
       "minecraft:plains": "2025-04-29 04:37:38 +0000",
       "minecraft:jagged_peaks": "2025-04-29 04:15:13 +0000"
     },
@@ -2087,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 00:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-03 23:16:55 +0000"
@@ -2108,6 +2116,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 23:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 00:04:46 +0000"
     },
     "done": true
   },
@@ -2138,6 +2152,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 23:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-04 00:04:40 +0000"
     },
     "done": true
   },
@@ -2195,6 +2215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 00:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-03 23:39:26 +0000"
@@ -2204,6 +2230,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 23:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-04 00:04:40 +0000"
     },
     "done": true
   },
@@ -2228,6 +2260,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 23:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-04 00:03:02 +0000"
     },
     "done": true
   },
