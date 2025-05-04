@@ -7,3 +7,5 @@
 [04May2025 00:09:53.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 lost connection: Disconnected
 [04May2025 00:09:53.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 left the game
 [04May2025 00:10:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[04May2025 00:45:15.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:64129] logged in with entity id 43593 at (1524.7979413633134, 113.0, 1031.7767964436237)
+[04May2025 00:45:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
