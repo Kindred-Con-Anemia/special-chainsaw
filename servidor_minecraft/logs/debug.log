@@ -664,3 +664,81 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 23:19:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 fell from a high place
 [03May2025 23:20:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
 [03May2025 23:21:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Applied skin changes for MIKE]
+[03May2025 23:22:23.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:22:23.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:22:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Applied skin changes for MIKE]
+[03May2025 23:22:59.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
+[03May2025 23:22:59.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:24:07.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Applied skin changes for samore123]
+[03May2025 23:25:18.098] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/entity/trialspawner/TrialSpawner
+[03May2025 23:25:40.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved wrongly!
+[03May2025 23:25:56.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:27:23.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:27:23.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:31:17.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=69, z=2966} BlockPos{x=844, y=68, z=2966}
+[03May2025 23:31:29.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=828, y=69, z=2973} BlockPos{x=829, y=67, z=2972}
+[03May2025 23:31:50.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=829, y=69, z=2969} BlockPos{x=829, y=68, z=2969}
+[03May2025 23:32:23.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:32:23.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:33:17.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=71, z=2967} BlockPos{x=825, y=70, z=2966}
+[03May2025 23:33:17.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=71, z=2967} BlockPos{x=825, y=70, z=2966}
+[03May2025 23:33:17.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=71, z=2967} BlockPos{x=825, y=70, z=2966}
+[03May2025 23:33:19.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=829, y=69, z=2966} BlockPos{x=827, y=68, z=2968}
+[03May2025 23:33:19.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=829, y=69, z=2966} BlockPos{x=827, y=68, z=2968}
+[03May2025 23:33:19.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=829, y=69, z=2966} BlockPos{x=827, y=68, z=2968}
+[03May2025 23:33:59.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=67, z=2961} BlockPos{x=845, y=67, z=2961}
+[03May2025 23:34:35.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:35.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:35.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:35.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:35.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:35.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:35.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:34:36.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=68, z=2963} BlockPos{x=837, y=68, z=2964}
+[03May2025 23:35:02.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[03May2025 23:37:23.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:37:23.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:37:51.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported samore123 to MIKE]
+[03May2025 23:39:45.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=14, z=-188} BlockPos{x=-86, y=16, z=-187}
+[03May2025 23:39:46.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=14, z=-188} BlockPos{x=-86, y=16, z=-187}
+[03May2025 23:40:39.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=16, z=-185} BlockPos{x=-116, y=13, z=-185}
+[03May2025 23:40:47.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=13, z=-185} BlockPos{x=-121, y=12, z=-185}
+[03May2025 23:41:34.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=15, z=-201} BlockPos{x=-170, y=14, z=-200}
+[03May2025 23:41:34.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=14, z=-201} BlockPos{x=-168, y=13, z=-202}
+[03May2025 23:41:49.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=13, z=-200} BlockPos{x=-174, y=12, z=-200}
+[03May2025 23:42:23.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:42:23.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:42:55.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported samore123 to MIKE]
+[03May2025 23:44:09.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:46:05.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported samore123 to 171.500000, 115.000000, 89.500000]
+[03May2025 23:47:23.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:47:23.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:47:40.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 171.500000, 115.000000, 89.500000]
+[03May2025 23:48:15.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[03May2025 23:48:18.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[03May2025 23:48:44.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[03May2025 23:48:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[03May2025 23:51:29.247] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:51:29.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:51:29.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:51:29.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Vanilla acceptance test: ACCEPTED
+[03May2025 23:51:29.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[03May2025 23:51:29.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@fd07a78 into net.minecraft.network.Connection@4ad2f5e6
+[03May2025 23:51:29.264] [Thread-84/DEBUG] [SkinRestorer/]: Fetching MIKE's skin
+[03May2025 23:51:30.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.65.53.54:62920] logged in with entity id 22476 at (1466.699999988079, 119.0, 910.2438406305212)
+[03May2025 23:51:30.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[03May2025 23:52:20.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:52:23.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:52:23.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:53:48.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[03May2025 23:54:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Creative Mode]
+[03May2025 23:54:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[03May2025 23:55:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <samore123> -531 66 893
+[03May2025 23:57:23.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:57:23.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:58:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[03May2025 23:58:35.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 1323.500000, 119.000000, 631.500000]
+[03May2025 23:59:18.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! -4.123925238341826,-2.9936587658519045,8.736214853547608
+[04May2025 00:01:47.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[04May2025 00:02:23.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:02:23.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
